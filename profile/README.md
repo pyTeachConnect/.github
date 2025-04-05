@@ -2,7 +2,7 @@
 > TeachConnect 的 Discord 服务器：https://discord.gg/s5z94tGbRq
 
 <p align="center">
-  <img width="16%" align="center" src="img/favicon.png" alt="logo">
+  <img width="16%" align="center" src="profile/favicon.png" alt="logo">
 </p>
   <h1 align="center">
   TeachConnect
@@ -23,11 +23,11 @@
 首先，确认您的设备是否满足以下需求:
 
 > [!NOTE]
-> **🚧 兼容性：** 现支持 Windows 10
+> **兼容性：** 现支持 Windows 10
 
-| **🖥️ 操作系统** | **🗄️ 运行内存** | **📦 运行环境** |
+| **🖥操作系统** | **🗄运行内存** | **运行环境** |
 | :-----: | :-----: | :------: |
-| **Windows 70** 及以上 | ≥4GB | *无特殊要求* |
+| **Windows 10** 及以上 | ≥4GB | *无特殊要求* |
 
 若已**满足**，请进行接下来的步骤。
 
