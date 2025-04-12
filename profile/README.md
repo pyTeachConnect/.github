@@ -13,6 +13,9 @@
  全新教师工具。
 </p>
 
+[![当前版本](https://img.shields.io/github/v/release/pyteachconnect/teachconnect?style=for-the-badge&color=purple&label=%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC)](https://github.com/pyTeachConnect/TeachConnect/releases/tag/Beta-0.3.0)
+[![开源许可](https://img.shields.io/badge/license-Apache2.0-blue.svg?label=开源许可证&style=for-the-badge)](https://github.com/pyTeachConnect/TeachConnect)
+
 #### [📦 前往本仓库](https://github.com/pyTeachConnect/TeachConnect)
 
 </div>
